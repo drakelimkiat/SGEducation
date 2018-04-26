@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SGEducation.iml" filepath="$PROJECT_DIR$/SGEducation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SGEducation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SGEducation_main.iml" group="SGEducation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SGEducation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SGEducation_test.iml" group="SGEducation" />
+    </modules>
+  </component>
+</project>
